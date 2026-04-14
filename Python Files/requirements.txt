@@ -1,4 +1,0 @@
-streamlit
-openai
-mysql-connector-python
-python-dotenv
